@@ -1,6 +1,7 @@
-@import "./node_modules/bootstrap/scss/bootstrap";
+@import "./node_modules/bootstrap/scss/bootstrap-grid";
+@import "responsive.scss";
 
-$color1: #efefef;
+$color1: #666;
 
 h1 {
   color: $color1;
